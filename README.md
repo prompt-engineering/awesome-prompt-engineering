@@ -8,27 +8,27 @@ based on: [总结当下可用的大模型LLMs](https://zhuanlan.zhihu.com/p/6114
 
 | Model | 作者 | Size | 类型 | 开源？ |
 |-------|-------|-------|-------|-------|
-| LLaMa | Meta AI | 7B-65B | Decoder | open |
-| OPT | Meta AI | 125M-175B | Decoder | open |
-| T5 | Google | 220M-11B | Encoder-Decoder | open |
-| mT5 | Google | 235M-13B | Encoder-Decoder | open |
-| UL2 | Google | 20B | Encoder-Decoder | open |
+| [LLaMa](https://github.com/facebookresearch/llama) | Meta AI | 7B-65B | Decoder | open |
+| [OPT](https://github.com/facebookresearch/metaseq) | Meta AI | 125M-175B | Decoder | open |
+| [T5](https://huggingface.co/google?sort_models=likes#models) | Google | 220M-11B | Encoder-Decoder | open |
+| [mT5](https://huggingface.co/models?search=mt5) | Google | 235M-13B | Encoder-Decoder | open |
+| [UL2](https://huggingface.co/google/ul2) | Google | 20B | Encoder-Decoder | open |
 | PaLM | Google | 540B | Decoder | no |
-| LaMDA | Google | 2B-137B | Decoder | no |
-| FLAN-T5 | Google | 同T5 | Encoder-Decoder | open |
+| [LaMDA](https://blog.google/technology/ai/lamda/) | Google | 2B-137B | Decoder | no |
+| [FLAN-T5](https://huggingface.co/google/flan-t5-large) | Google | 同T5 | Encoder-Decoder | open |
 | FLAN-UL2 | Google | 同U2 | Encoder-Decoder | open |
 | FLAN-PaLM | Google | 同PaLM | Decoder | no |
 | FLAN | Google | 同LaMDA | Decoder | no |
-| BLOOM | BigScience | 176B | Decoder | open |
-| T0 | BigScience | 3B | Decoder | open |
+| [BLOOM](https://huggingface.co/bigscience/bloom) | BigScience | 176B | Decoder | open |
+| [T0](https://huggingface.co/bigscience/T0) | BigScience | 3B | Decoder | open |
 | BLOOMZ | BigScience | 同BLOOM | Decoder | open |
 | mT0 | BigScience | 同T0 | Decoder | open |
-| GPT-Neo | EleutherAI | 125M-2.7B | Decoder | open |
-| GPT-NeoX | EleutherAI | 20B | Decoder | open |
+| [GPT-Neo](https://github.com/EleutherAI/gpt-neo) | EleutherAI | 125M-2.7B | Decoder | open |
+| [GPT-NeoX](https://huggingface.co/EleutherAI/gpt-neox-20b) | EleutherAI | 20B | Decoder | open |
 | GPT3 | OpenAI | 175B (davinci) | Decoder | no |
 | GPT4 | OpenAI | unknown | OpenAI | no |
 | InstructGPT | OpenAI | 1.3B | Decoder | no |
-| Alpaca | Stanford | 同LLaMa | Decoder | open |
+| [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | Stanford | 同LLaMa | Decoder | open |
 
 
 ## Instruct/Prompt Tuning Data
