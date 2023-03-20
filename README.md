@@ -48,6 +48,11 @@ based on [总结开源可用的Instruct/Prompt Tuning数据](https://zhuanlan.zh
 | [InstructDial](https://github.com/prakharguptaz/Instructdial/tree/main/datasets) | prakharguptaz | 在特定的一种任务类型（对话指令）上进行指令微调的尝试 |
 | [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | Stanford | 53k data, very powerful performance (GPT-3.5 level). |
 
+## Projects:
+
+- [LangChain](https://github.com/hwchase17/langchain/) -  ⚡ Building applications with LLMs through composability ⚡
+    - [ChatLangChain](https://github.com/hwchase17/chat-langchain) is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation. Built with LangChain and FastAPI.
+
 ## Prompter Papers
 
 - MathPrompter: Mathematical Reasoning using Large Language Models
