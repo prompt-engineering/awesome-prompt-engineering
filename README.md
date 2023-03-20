@@ -29,6 +29,8 @@ based on: [总结当下可用的大模型LLMs](https://zhuanlan.zhihu.com/p/6114
 | GPT4 | OpenAI | unknown | OpenAI | no |
 | InstructGPT | OpenAI | 1.3B | Decoder | no |
 | [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | Stanford | 同LLaMa | Decoder | open |
+| [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | Tsinghua University | 6B | Decoder | open |
+| [GLM-130B](https://github.com/THUDM/GLM-130B) | Tsinghua University | 130B | Decoder | open |
 
 
 ## Instruct/Prompt Tuning Data
