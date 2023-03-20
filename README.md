@@ -1,5 +1,7 @@
 # awesome-prompts
 
+> awesome for your to collections 
+
 ## LLMs
 
 based on: [总结当下可用的大模型LLMs](https://zhuanlan.zhihu.com/p/611403556)
@@ -46,4 +48,6 @@ based on [总结开源可用的Instruct/Prompt Tuning数据](https://zhuanlan.zh
 | InstructDial | prakharguptaz | 在特定的一种任务类型（对话指令）上进行指令微调的尝试 |
 | Alpaca | Stanford | 53k data, very powerful performance (GPT-3.5 level). |
 
-awesome for your to collections 
+## Prompter Papers
+
+- MathPrompter: Mathematical Reasoning using Large Language Models 
