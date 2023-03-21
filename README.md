@@ -52,11 +52,12 @@ based on [总结开源可用的Instruct/Prompt Tuning数据](https://zhuanlan.zh
 
 ## Projects:
 
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, lecture, and resources for prompt engineering 
+    - [notebooks](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/notebooks)
 - [LangChain](https://github.com/hwchase17/langchain/) -  ⚡ Building applications with LLMs through composability ⚡
     - [ChatLangChain](https://github.com/hwchase17/chat-langchain) is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation. Built with LangChain and FastAPI.
 - [Alpaca]
     - [Alpaca-LoRA](https://github.com/tloen/alpaca-lora) - Low-Rank LLaMA Instruct-Tuning,  Instruct-tune LLaMA on consumer hardware .
-
 
 ## Prompter Papers
 
