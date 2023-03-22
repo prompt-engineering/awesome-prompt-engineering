@@ -56,6 +56,7 @@ based on [总结开源可用的Instruct/Prompt Tuning数据](https://zhuanlan.zh
     - [notebooks](https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/notebooks)
 - [LangChain](https://github.com/hwchase17/langchain/) -  ⚡ Building applications with LLMs through composability ⚡
     - [ChatLangChain](https://github.com/hwchase17/chat-langchain) is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation. Built with LangChain and FastAPI.
+    - [Langflow](https://github.com/logspace-ai/langflow) - LangFlow is a GUI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows with drag-and-drop components and a chat box.
 - [Alpaca]
     - [Alpaca-LoRA](https://github.com/tloen/alpaca-lora) - Low-Rank LLaMA Instruct-Tuning,  Instruct-tune LLaMA on consumer hardware .
 
