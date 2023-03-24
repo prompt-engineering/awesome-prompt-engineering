@@ -48,7 +48,7 @@ based on [总结开源可用的Instruct/Prompt Tuning数据](https://zhuanlan.zh
 | [UnifiedSKG](https://unifiedskg.com/) | HKU | 在Text-to-Text框架中加入knowledge grounding，将结构化数据序列化并嵌入到prompt中 |
 | [Flan Collection](https://github.com/google-research/FLAN/tree/main/flan/v2) | Google | 将Flan 2021数据与一些开源的instruction数据（P3，super-natural instruction等）进行合并 |
 | [InstructDial](https://github.com/prakharguptaz/Instructdial/tree/main/datasets) | prakharguptaz | 在特定的一种任务类型（对话指令）上进行指令微调的尝试 |
-| [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | Stanford | 53k data, very powerful performance (GPT-3.5 level). |
+| [Alpaca-LoRA](https://github.com/tloen/alpaca-lora) | tloen |  Low-Rank LLaMA Instruct-Tuning |
 
 ## Projects:
 
@@ -59,6 +59,9 @@ based on [总结开源可用的Instruct/Prompt Tuning数据](https://zhuanlan.zh
     - [Langflow](https://github.com/logspace-ai/langflow) - LangFlow is a GUI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows with drag-and-drop components and a chat box.
 - [Alpaca]
     - [Alpaca-LoRA](https://github.com/tloen/alpaca-lora) - Low-Rank LLaMA Instruct-Tuning,  Instruct-tune LLaMA on consumer hardware .
+    - [Alpaca-LoRA as a Chatbot Service](https://github.com/deep-diver/Alpaca-LoRA-Serve)
+    - [AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned)
+    
 
 ## Prompter Papers
 
