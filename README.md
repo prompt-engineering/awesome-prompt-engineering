@@ -61,7 +61,9 @@ based on [总结开源可用的Instruct/Prompt Tuning数据](https://zhuanlan.zh
     - [Alpaca-LoRA](https://github.com/tloen/alpaca-lora) - Low-Rank LLaMA Instruct-Tuning,  Instruct-tune LLaMA on consumer hardware .
     - [Alpaca-LoRA as a Chatbot Service](https://github.com/deep-diver/Alpaca-LoRA-Serve)
     - [AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned)
-    
+    - [BELLE](https://github.com/LianjiaTech/BELLE) - Bloom-Enhanced Large Language model Engine，针对 Stanford Alpaca  中文做了优化，模型调优仅使用由ChatGPT生产的数据（不包含任何其他数据）。
+    - [https://github.com/LC1332/Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora) - A Chinese finetuned instruction LLaMA. 
+- [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) -  ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.     
 
 ## Prompter Papers
 
