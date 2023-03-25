@@ -63,7 +63,9 @@ based on [总结开源可用的Instruct/Prompt Tuning数据](https://zhuanlan.zh
     - [AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned)
     - [BELLE](https://github.com/LianjiaTech/BELLE) - Bloom-Enhanced Large Language model Engine，针对 Stanford Alpaca  中文做了优化，模型调优仅使用由ChatGPT生产的数据（不包含任何其他数据）。
     - [https://github.com/LC1332/Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora) - A Chinese finetuned instruction LLaMA. 
+    - [Dolly](https://github.com/databrickslabs/dolly) - fine-tunes the GPT-J 6B model on the Alpaca dataset using a Databricks notebook. 
 - [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) -  ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.     
+- [GPT-j]
 
 ## Prompter Papers
 
