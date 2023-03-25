@@ -67,6 +67,10 @@ based on [总结开源可用的Instruct/Prompt Tuning数据](https://zhuanlan.zh
 - [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) -  ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.     
 - [GPT-j]
 
+## Infra
+
+- [PEFT](https://github.com/huggingface/peft) - Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
+
 ## Prompter Papers
 
 - MathPrompter: Mathematical Reasoning using Large Language Models
