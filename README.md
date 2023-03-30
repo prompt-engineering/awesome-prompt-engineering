@@ -71,6 +71,14 @@ based on [总结开源可用的Instruct/Prompt Tuning数据](https://zhuanlan.zh
 
 - [PEFT](https://github.com/huggingface/peft) - Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
 
+## Patterns
+
+[Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+
+![](https://user-images.githubusercontent.com/371009/221739773-cf43522f-c1e4-42f2-b73d-5ba84e21febb.png)
+
+Semantic Kernel is designed to support and encapsulate several design patterns from the latest in AI research, such that developers can infuse their applications with complex skills like prompt chaining, recursive reasoning, summarization, zero/few-shot learning, contextual memory, long-term memory, embeddings, semantic indexing, planning, and accessing external knowledge stores as well as your own data.
+
 ## Prompter Papers
 
 - MathPrompter: Mathematical Reasoning using Large Language Models
